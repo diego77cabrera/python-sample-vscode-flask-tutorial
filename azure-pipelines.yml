@@ -19,8 +19,8 @@ steps:
   displayName: 'Run a multi-line script'
 
 variables:
-  ConnectedServiceName: '<your-service-connection>'
-  WebAppName: '<your-appservice>'
+  ConnectedServiceName: 'Visual Studio Professional (86168a69-7fb7-4059-8a5d-a99b3afdb809)'
+  WebAppName: 'webappfercab'
 
 trigger:
 - master
